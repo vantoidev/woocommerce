@@ -4,11 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
     "content-hash": "a5cb448a1d94f10a40207b6f0dfa1c50",
-=======
-    "content-hash": "aa08be38c80ee3e4e781e817cc77741b",
->>>>>>> f7d3f8473... wc-admin: Include package
     "packages": [
         {
             "name": "automattic/jetpack-autoloader",
